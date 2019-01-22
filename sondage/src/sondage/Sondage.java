@@ -15,7 +15,7 @@ public class Sondage {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code application logic here gg
     }
       public static void methode( ) {
           System.out.println("hello");
